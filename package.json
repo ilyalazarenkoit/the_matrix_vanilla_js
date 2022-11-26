@@ -1,6 +1,18 @@
 {
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /Starway/"
+  },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.0",
-    "parcel": "^2.8.0"
+    "parcel": "^2.8.0",
+    "posthtml-include": "^1.7.4"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "postcss-modules": "^6.0.0",
+    "posthtml-img-autosize": "^0.1.6",
+    "preact": "^10.11.3"
   }
 }

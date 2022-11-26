@@ -4,6 +4,11 @@ div {
   background-color: red;
 }
 
+.is-hidden {
+  visibility: hidden;
+  display: none;
+}
+
 .open-trailer {
   color: #00f;
   background-color: wheat;

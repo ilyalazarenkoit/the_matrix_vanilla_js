@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/styles.scss"],"sourcesContent":["div {\r\n    background-color: red;\r\n    width:50px;\r\n    height: 50px;\r\n}"],"names":[],"version":3,"file":"index.f2ac7c44.css.map","sourceRoot":"/__parcel_source_root/"}
